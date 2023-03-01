@@ -1,1 +1,1 @@
-"HELLO WORLD"
+(= "HELLO WORLD" (.toUpperCase "hello world"))
